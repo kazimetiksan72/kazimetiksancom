@@ -23,7 +23,7 @@ npm run dev
 - `email`, `linkedin`: iletişim bağlantıları
 - `cvUrl`: `public/Kazim_Etiksan_CV.pdf` dosyasına işaret eder
 
-Boş e-posta, LinkedIn ve CV bağlantıları gösterilmez. Diğer boş içerik alanları açıkça yakında eklenecek olarak görünür. Sayfa başlığı ve açıklaması `index.html` içindedir. Harici Google Fonts yüklenemezse sistem yazı tipleri kullanılır.
+Seçili üç proje ilk görünümde yer alır; diğer çalışmalar düğmeyle açılır. Deneyim ayrıntıları açılır bölümlerden incelenebilir. Sayfa başlığı ve açıklaması `index.html` içindedir. Manrope fontları yerel paketlerden sunulur; harici Google Fonts isteği yapılmaz. Portre `public/kazim-etiksan.webp` dosyasıdır.
 
 ## Vercel ile yayınlama
 
