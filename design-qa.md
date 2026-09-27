@@ -28,3 +28,6 @@ No outstanding actionable P0/P1/P2 findings.
 ## Follow-up polish
 - P3: Manrope letterforms and button widths differ slightly from the generated mock; the requested modern sans-serif direction is preserved.
 - Email/phone handlers were inspected, not sent or dialed.
+
+## Requested compact portrait revision
+User explicitly requested a smaller portrait after visual selection. Hero now uses a 300 × 360 portrait on desktop, 240 × 300 on tablet, and a 150 × 180 profile photo above the mobile introduction. Verified rendered desktop (1440 × 900) and mobile (390 × 844) with no horizontal overflow. This deliberately supersedes the original large-photo proportions. Production build and whitespace check passed.
