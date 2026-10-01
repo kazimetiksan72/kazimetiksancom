@@ -7,7 +7,6 @@ export const profile = {
   bio: 'Mobil uygulama geliştirme, teknik danışmanlık, kurumsal eğitim ve ekip yönetimi alanlarında çalışıyorum. 2013 yılında kurduğum Piksel Mutfak bünyesinde farklı sektörlerdeki kurumlara çözümler üretiyorum. Son dönem çalışmalarım AI Agent ve Chatbox geliştirme, yapay zekâ danışmanlığı ve eğitim üzerine yoğunlaşıyor.',
   email: 'kazim@pikselmutfak.com',
   phone: '+90 532 487 12 00',
-  github: 'https://github.com/kazimetiksan72',
   linkedin: '',
   cvUrl: '/Kazim_Etiksan_CV.pdf',
   skills: ['Yapay zekâ çözümleri', 'Mobil uygulama geliştirme', 'Kurumsal eğitim', 'Teknik danışmanlık', 'Ekip yönetimi'],
